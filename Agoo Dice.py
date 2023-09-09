@@ -1,4 +1,4 @@
-#importing module for random number generation
+#importing module for random number generation agoo
 import random
 
 #range of the values of a dice
