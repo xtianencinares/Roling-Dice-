@@ -15,6 +15,7 @@ while roll_again == "yes" or roll_again == "y":
     
     #generating and printing 1st random integer from 1 to 6
     print(random.randint(min_val, max_val))
+
     
     #generating and printing 2nd random integer from 1 to 6
     print(random.randint(min_val, max_val))
