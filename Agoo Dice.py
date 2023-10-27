@@ -8,7 +8,7 @@ max_val = 6
 #to loop the rolling through user input
 roll_again = "yes" 
 
-#loop
+#loop 
 while roll_again == "yes" or roll_again == "y":
     print("Rolling The Dices...")
     print("Agoo Inc. The Values are :")
